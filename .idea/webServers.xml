@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bfceeea3-9e6e-4f61-b6db-ebc50b122b7d" name="95.183.50.66" url="http://zareena.shop">
+        <fileTransfer rootFolder="/usr/local/www/zareena" accessType="SFTP" host="95.183.50.66" port="22" sshConfigId="27d5ec64-3c3e-407a-b93e-3cd770f863ea" sshConfig="diro@95.183.50.66:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
