@@ -22,6 +22,6 @@
                 </div>
             </div>
         </div>
-        <p>copyright &copy; Zareena - All rights reserved 2019</p>
+        <p>copyright &copy; Zareena - All rights reserved 2022</p>
     </div>
 </footer>
