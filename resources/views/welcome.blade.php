@@ -7,7 +7,7 @@
     <div class="hero-content">
         <div class="col-md-4 hero-text">
             <h3>
-                Welcome to the site Welcome to the site
+                Welcome to Zareena Official eCommerce Site
             </h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, assumenda. Culpa, libero.</p>
             <button class="btn custom-border my-2 my-sm-0">Shop</button>
@@ -19,7 +19,7 @@
 <!-- start page content -->
 <div class="container">
     <div class="content-head">
-        <h2 style="text-align:center; font-weight: bold">Ecommerce</h2>
+        <h2 style="text-align:center; font-weight: bold">Zarinna eCommerce</h2>
         <p style="text-align: center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam accusamus eos quibusdam, esse voluptates voluptatibus id corporis facere neque amet alias molestias itaque ex porro architecto blanditiis distinctio maxime laboriosam.</h2>
     </div>
     <h2 class="header text-center">Featured Products</h2>
